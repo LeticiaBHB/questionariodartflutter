@@ -1,8 +1,10 @@
 # questionariodartflutter
 questionnaire with 10 questions, each question has a different weight, in the end you will have an answer according to your answers. Simulating a behavioral test
 
+application example and your questions below:
+
 | Image 1 | Image 2 |
-|----------|----------|----------|
+|----------|----------|
 | ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](screenshot/2.jpeg) |
 
 MIT License
