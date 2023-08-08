@@ -5,7 +5,7 @@ application example and your questions below:
 
 | Image 1 | Image 2 |
 |----------|----------|
-| ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](screenshot/2.jpeg) |
+| ![App Screenshot](screenshot/2.jpeg) | ![App Screenshot](screenshot/1.jpeg) |
 
 MIT License
 
