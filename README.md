@@ -3,7 +3,7 @@ questionnaire with 10 questions, each question has a different weight, in the en
 
 | Image 1 | Image 2 |
 |----------|----------|----------|
-| ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](assets/screenshot/2.jpeg) |
+| ![App Screenshot](screenshot/1.jpeg) | ![App Screenshot](screenshot/2.jpeg) |
 
 MIT License
 
